@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "password": "123",
+      "name": "관리자"
+    },
+    {
+      "id": "c",
+      "password": "c",
+      "name": "강쥐맘"
+    }
+  ]
+}
